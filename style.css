@@ -1,0 +1,12 @@
+#lesson{
+   border-color: brown;
+   border-style: dotted;
+   padding: 20px;
+   margin:5%
+}
+
+
+p{
+    border:1px solid;
+    border-color: blueviolet;
+}
